@@ -1,0 +1,21 @@
+/* .cartpic{
+    width: 40px;
+    float: right;
+} */
+ .ecom{
+    margin: 0;
+    padding: 0;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+ .search-product{
+float: left;
+width: 60%;
+padding: 25px;
+ }
+ .search-product input{
+    width: 100%;
+    height: 30px;
+    padding-left: 10px;
+ }

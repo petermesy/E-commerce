@@ -1,0 +1,30 @@
+.cart-page-container{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.cart-page-container table{
+    flex:65%;
+    border-collapse: collapse;
+}
+.cart-page-container table td{
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+.container{
+    display: flex;
+}
+.price-detail .adjust-price{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.price-detail .adjust-price span{
+    font-size: 20px;
+    margin: 30px;
+}
+td{
+    font-weight: bold !important;
+}
