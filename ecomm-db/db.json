@@ -1,0 +1,76 @@
+{
+    "product": [
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 1,
+            "name": "i phone",
+            "color": "red",
+            "price": 2000,
+            "catogory": "mobile",
+            "brand": "15"
+        },
+        {  
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 2,
+            "name": "T shirt",
+            "color": "red",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "adiddas"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 3,
+            "name": "Sport cloths",
+            "color": "yellow",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "nike"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 4,
+            "name": "shoose",
+            "color": "white",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "pumma"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 5,
+            "name": "Sport cloths1",
+            "color": "yellow",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "nike"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 6,
+            "name": "shoose1",
+            "color": "white",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "pumma"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 7,
+            "name": "Sport cloths2",
+            "color": "yellow",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "nike"
+        },
+        {
+            "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.medium_2x.jpg",
+            "id": 8,
+            "name": "shoose2",
+            "color": "white",
+            "price": 2000,
+            "catogory": "cloth",
+            "brand": "pumma"
+        }
+    ]
+}
